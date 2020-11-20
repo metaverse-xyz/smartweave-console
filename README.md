@@ -4,11 +4,11 @@ A console for interacting with SmartWeave.
 
 ## Usage
 
-```shell script
+```bash
 $ yarn console
 ```
 
-```shell script
+```bash
 smartweave > 
 *********************************
 *       Smartweave Console      *

@@ -1,0 +1,29 @@
+{
+  "name": "smartweave-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": {
+    "email": "graemeboy@gmail.com",
+    "name": "Graeme",
+    "url": "https://twitter.com/strangechances"
+  },
+  "description": "A console for interacting with SmartWeave",
+  "keywords": [
+    "Arweave",
+    "console",
+    "SmartWeave",
+    "permaweb"
+  ],
+  "scripts": {
+    "console": "babel-node --experimental-repl-await index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "arweave": "^1.10.0",
+    "lodash": "^4.17.20",
+    "smartweave": "^0.4.11"
+  }
+}

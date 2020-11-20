@@ -17,7 +17,7 @@
     "permaweb"
   ],
   "scripts": {
-    "start": "babel-node --experimental-repl-await console"
+    "start": "babel-node --experimental-repl-await index.js"
   },
   "dependencies": {
     "@babel/core": "^7.12.3",

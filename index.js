@@ -1,4 +1,3 @@
-// External
 import repl from "repl";
 import lodash from "lodash";
 import Arweave from "arweave";

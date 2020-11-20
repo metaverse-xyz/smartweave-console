@@ -5,7 +5,8 @@ A console for interacting with SmartWeave.
 ## Usage
 
 ```bash
-$ yarn console
+$ yarn
+$ yarn start
 ```
 
 ```bash
